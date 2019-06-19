@@ -1,0 +1,1 @@
+Program uruchamiaæ w Microsoft Visual Studio 2017.
